@@ -25,3 +25,6 @@ FOr the LED regulator circuit. I went to [Texas Instruments' website power suppl
 2. Moving from schematic to PCB layout was seamless. I particularly appreciated Altium's interactive routing capabilities.
 3. Designing it as an Arduino hat required careful planning to ensure proper alignment with Arduino pins. Altium's precise measurement tools were really useful here.
 4. Throughout the process, I ran multiple design rule checks. This helped me catch and correct issues early, saving time in the long run.
+![image](https://github.com/user-attachments/assets/f794fa6a-d403-4f83-955d-88e2cfdb3580)
+
+![image](https://github.com/user-attachments/assets/d61e3e69-4026-4fad-b11a-915dc5bbc8fd)
