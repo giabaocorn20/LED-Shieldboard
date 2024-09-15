@@ -21,7 +21,7 @@ Here's what I found:
 Creating the LED regulator circuit in Altium was a smooth process once I got the hang of the software. Here's how it went:
 
 1. I started with the schematic design, laying out the circuit and selecting components from Altium's libraries.
-FOr the LED regulator circuit. I went to [Texas Instruments' website power supply design] (https://webench.ti.com/power-designer/) and found an appropriate regulator buck TPS562201DDCR. I then designed the rest of the circuit around this IC, including input and output capacitors, resistors, and connectors.
+FOr the LED regulator circuit. I went to [Texas Instruments' website power supply design](https://webench.ti.com/power-designer/) and found an appropriate regulator buck TPS562201DDCR. I then designed the rest of the circuit around this IC, including input and output capacitors, resistors, and connectors.
 2. Moving from schematic to PCB layout was seamless. I particularly appreciated Altium's interactive routing capabilities.
 3. Designing it as an Arduino hat required careful planning to ensure proper alignment with Arduino pins. Altium's precise measurement tools were really useful here.
 4. Throughout the process, I ran multiple design rule checks. This helped me catch and correct issues early, saving time in the long run.
